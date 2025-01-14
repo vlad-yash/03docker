@@ -1,2 +1,2 @@
 # 03docker
-Soulutios for tasks
+Solutions for tasks
